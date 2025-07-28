@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+JINNAM_KIM!+👋;Backend+Developer+💻;Building+scalable+systems+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+JINNAM_KIM!+👋;Backend+Developer+💻;" />
 </div>
 
 ---
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-### 💭 *"백엔드의 세계는 깊고 넓다"*
+### 💭 *"모든 지식을 흡수하라"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gurumi432&color=blueviolet&style=flat-square&label=Profile+Views)
 

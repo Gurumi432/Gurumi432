@@ -2,13 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+JINNAM_KIM!+👋;Backend+Developer+💻;&color=ffffff&background=0d1117" />
 </div>
 
----
 
-## 🛠️ **Tech Stack**
 
 <div align="center">
 
-### **Backend**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -19,31 +16,24 @@
 ![MyBatis](https://img.shields.io/badge/MyBatis-ED1C24?style=for-the-badge&logo=mybatis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### **Tools**
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### **Algorithm**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
----
 
-## 🏆 **Problem Solving Journey**
 
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=espresso024)](https://solved.ac/espresso024/)
 
-*"조금씩 정점을 향해"*
 
 </div>
 
----
 
-## 📊 **GitHub Stats**
 
 <div align="center">
 
@@ -52,9 +42,7 @@
 
 </div>
 
----
 
-## 🔥 **Commit Streak**
 
 <div align="center">
 
@@ -62,9 +50,6 @@
 
 </div>
 
----
-
-## 💻 **Activity Graph**
 
 <div align="center">
 
@@ -72,10 +57,9 @@
 
 </div>
 
----
-
 <div align="center">
 
+*"조금씩 정점을 향해"*
 ### 💭 *"모든 지식을 흡수하라"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gurumi432&color=blueviolet&style=flat-square&label=Profile+Views)

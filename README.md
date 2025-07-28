@@ -55,7 +55,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=espresso024)](https://solved.ac/espresso024/)
 
-*"한 문제씩 차근차근 풀어가는 중..."*
+*"조금씩 정점을 향해.."*
 
 </div>
 

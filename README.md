@@ -57,8 +57,8 @@
 
 <div align="center">
 
-*"조금씩 정점을 향해"*
-###  *"모든 지식을 흡수하라"*
+*"Little by little towards the peak"*
+###  *"Absorb all knowledge"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gurumi432&color=blueviolet&style=flat-square&label=Profile+Views)
 

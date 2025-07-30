@@ -2,8 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+Gurumi432!+👋;Backend+Developer+💻;&color=ffffff&background=0d1117" />
 </div>
 
-
-
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -15,39 +13,27 @@
 ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-ED1C24?style=for-the-badge&logo=mybatis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
 </div>
-
-
 
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=espresso024)](https://solved.ac/espresso024/)
 
-
 </div>
-
-
 
 <div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gurumi432&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurumi432&layout=compact&langs_count=7&theme=tokyonight"/>
-
 </div>
-
-
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gurumi432&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
-
 
 <div align="center">
 
@@ -58,8 +44,30 @@
 <div align="center">
 
 *"Little by little towards the peak"*
+
 ###  *"Absorb all knowledge"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gurumi432&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+<h3>📊 Profile Views Analytics</h3>
+<br>
+
+<!-- 프로필 조회수 그래프 - 방법 1: GitHub Insights Graph -->
+<img src="https://github-profile-views-counter.herokuapp.com/graph?username=Gurumi432&theme=tokyonight" alt="Profile Views Graph" />
+
+<!-- 프로필 조회수 그래프 - 방법 2: Hits 서비스 사용 -->
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/Gurumi432" />
+</a>
+
+<!-- 누적 조회수와 오늘의 조회수 -->
+<br><br>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGurumi432&count_bg=%236B46C1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Total+Views&edge_flat=false" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGurumi432&count_bg=%2379C83D&title_bg=%23555555&icon=todoist.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false" />
 
 </div>

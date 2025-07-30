@@ -51,23 +51,11 @@
 
 </div>
 
----
+
 
 <div align="center">
-<h3>📊 Profile Views Analytics</h3>
-<br>
+<h3></h3>
 
-<!-- 프로필 조회수 그래프 - 방법 1: GitHub Insights Graph -->
-<img src="https://github-profile-views-counter.herokuapp.com/graph?username=Gurumi432&theme=tokyonight" alt="Profile Views Graph" />
-
-<!-- 프로필 조회수 그래프 - 방법 2: Hits 서비스 사용 -->
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/Gurumi432" />
-</a>
-
-<!-- 누적 조회수와 오늘의 조회수 -->
-<br><br>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGurumi432&count_bg=%236B46C1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Total+Views&edge_flat=false" />
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGurumi432&count_bg=%2379C83D&title_bg=%23555555&icon=todoist.svg&icon_color=%23E7E7E7&title=Today&edge_flat=false" />
+[![Tech Blog](https://img.shields.io/badge/🗺️_Tech_Blog-mapofdev.com-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://mapofdev.com)
 
 </div>

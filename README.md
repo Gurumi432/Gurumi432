@@ -73,7 +73,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gurumi432&theme=tokyonight)](https://git.io/streak-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=espresso024)](https://solved.ac/espresso024/)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gurumi432&theme=tokyonight)](https://git.io/streak-stats) 
 </div>
 
 <div align="center">

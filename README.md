@@ -68,19 +68,20 @@
 <br>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gurumi432&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&bg_color=1a1a2e&title_color=5dade2&text_color=aed6f1&icon_color=3498db"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurumi432&layout=compact&langs_count=7&theme=blue-green&bg_color=1a1a2e&title_color=5dade2&text_color=aed6f1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gurumi432&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=F0F8FF&title_color=4682B4&text_color=191970&icon_color=87CEEB"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurumi432&layout=compact&langs_count=7&theme=default&bg_color=F0F8FF&title_color=4682B4&text_color=191970"/>
 </div>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gurumi432&theme=blue-green&background=1a1a2e&ring=5dade2&fire=3498db&currStreakLabel=aed6f1&sideLabels=5dade2&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gurumi432&theme=default&background=F0F8FF&ring=4682B4&fire=87CEEB&currStreakLabel=191970&sideLabels=4682B4&currStreakNum=191970&sideNums=191970)](https://git.io/streak-stats)
 
 </div>
 <div align="center">
 
-[![Gurumi432's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gurumi432&theme=react-dark&bg_color=1a1a2e&color=aed6f1&line=3498db&point=5dade2&area=true&area_color=5dade2)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gurumi432's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gurumi432&theme=github-compact&bg_color=F0F8FF&color=191970&line=4682B4&point=87CEEB&area=true&area_color=B0E0E6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
 
 <div align="center">
 

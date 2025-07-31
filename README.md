@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+Gurumi432!+👋;Backend+Developer+💻;&color=ffffff&background=0d1117" />
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=280&section=header&text=Gurumi432&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Spring%20Boot%20Enthusiast&descAlignY=51&descAlign=62" width="100%" /></div>
+<br>
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -18,6 +17,55 @@
 
 </div>
 
+<!-- 현재 학습 중인 프로젝트 섹션 추가 -->
+<div align="center">
+
+[![](https://img.shields.io/badge/🎯_목표-Backend_Master-FFD700?style=for-the-badge&labelColor=1a1b27)](https://github.com/codingrecipe1/member_new)
+
+
+[![](https://img.shields.io/badge/🔥_현재_진행중-Member_Management_System-FF6B6B?style=for-the-badge&labelColor=1a1b27)](https://github.com/codingrecipe1/member_new/blob/main/src/test/java/com/codingrecipe/member/MemberApplicationTests.java)
+[![](https://img.shields.io/badge/📚_학습_중점-Spring_Boot_&_JPA-00D4FF?style=for-the-badge&labelColor=1a1b27)](https://github.com/codingrecipe1/member_new)
+
+</div>
+
+<!-- 학습 로드맵 섹션 추가 -->
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/STEP_1-진행중-FF6B6B?style=for-the-badge&logo=spring&logoColor=white" /><br/>
+      <a href="https://github.com/codingrecipe1/member_new">
+        <b>회원관리 시스템</b>
+      </a><br/>
+      <sub>Spring Boot 기초</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/STEP_2-예정-4ECDC4?style=for-the-badge&logo=spring&logoColor=white" /><br/>
+      <a href="https://github.com/codingrecipe1/board_framework">
+        <b>게시판 프레임워크</b>
+      </a><br/>
+      <sub>Spring Framework 심화</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/STEP_3-예정-45B7D1?style=for-the-badge&logo=react&logoColor=white" /><br/>
+      <a href="https://github.com/codingrecipe1/react_basic">
+        <b>React 기초</b>
+      </a><br/>
+      <sub>프론트엔드 입문</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/STEP_4-예정-F7DC6F?style=for-the-badge&logo=springboot&logoColor=white" /><br/>
+      <a href="https://github.com/codingrecipe1/board2024_boot">
+        <b>Board 2024</b>
+      </a><br/>
+      <sub>풀스택 프로젝트</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+<br>
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=espresso024)](https://solved.ac/espresso024/)
@@ -50,8 +98,6 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gurumi432&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
-
-
 
 <div align="center">
 <h3></h3>

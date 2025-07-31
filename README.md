@@ -65,11 +65,6 @@
 
 </div>
 <br>
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=espresso024)](https://solved.ac/espresso024/)
-
-</div>
 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gurumi432&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -79,7 +74,7 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gurumi432&theme=tokyonight)](https://git.io/streak-stats)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=espresso024)](https://solved.ac/espresso024/)
 </div>
 
 <div align="center">
